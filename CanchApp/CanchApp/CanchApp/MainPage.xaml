@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:CanchApp"
              x:Class="CanchApp.MainPage">
 
-  <Label Text="Welcome to Xamarin Forms!"
+  <Label Text="Welcome to Juan"
            VerticalOptions="Center"
            HorizontalOptions="Center" />
 
